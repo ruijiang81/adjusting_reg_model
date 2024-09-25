@@ -2,10 +2,8 @@ cde==0.6.1
 matplotlib==3.3.4
 numpy==1.19.5
 pandas==1.1.5
-probaforms==0.2.0
 scikit_learn==1.5.2
 scipy==1.5.4
 seaborn==0.11.2
 torch==1.10.2+cu113
 tqdm==4.64.1
-uci_datasets==1.1.0
